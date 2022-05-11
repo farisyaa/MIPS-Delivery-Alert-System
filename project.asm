@@ -1,10 +1,4 @@
 #----------Title: Parcel Delivery Alert System----------#
-#	CSC3301: Computer Science and Computer Architecture - Section 2
-#	Group Members
-#	ANI AFIQAH BINTI ZAMRUD 			1912406 
-#	HILDA BINTI MOHD FADZIR				1919268
-#	NUR IMAN KAMILA BINTI AZHARUDIN			1915282
-#	NUR FAEISYA AQILAH BINTI MUHAMAD FADZIL		1919614
 
 .data
 	#MAIN PAGE
